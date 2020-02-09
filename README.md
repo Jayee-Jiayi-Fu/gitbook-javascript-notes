@@ -1,2 +1,6 @@
-# Javascript 笔记
+---
+description: JavaScript 学习笔记。
+---
+
+# About
 
